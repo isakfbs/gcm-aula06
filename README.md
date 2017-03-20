@@ -5,8 +5,10 @@
  * RCS
  * CVS
  * Source Safe
- * Clear Case
+ * Bazaar
  * SVN
  * Mercurial
- * Perforce
+ * Clear Case
  * Git
+ * Visual Studio Team Services
+ * Perforce
